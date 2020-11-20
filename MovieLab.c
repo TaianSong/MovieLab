@@ -1,11 +1,4 @@
-/*********************************************************************/
-/* Homework Assignment 5, for EECS 22, Winter 2020                   */
-/*                                                                   */
-/* Author: Bo Tsai                                                   */
-/*                                                                   */
-/* MovieLab.c: source file for the main function                     */
-/*                                                                   */
-/* Please use this template for your HW5.                            */
+
 /*********************************************************************/
 
 #include <stdio.h>
